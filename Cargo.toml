@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 bevy = { version = "0.19.1", features = ["dynamic_linking"] }
+mcmf = "2.0.0"
+ndshape = "0.3.0"
